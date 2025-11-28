@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74400ced-cc2a-4e32-96cd-88b9ded44f3c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2pfy17boUv4tbfXg5QT6Uwj1r27" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lucasqu/Downloads/hw09_local_temp&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cis1200.minesweeper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Checkstyle">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cis1200.Game" />
+      <module name="hw09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cis1200.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MineSweeperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cis1200.minesweeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cis1200.minesweeper" />
+      <option name="MAIN_CLASS_NAME" value="org.cis1200.minesweeper.MineSweeperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MineSweeperTest.flagRevealedCell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cis1200.minesweeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cis1200.minesweeper" />
+      <option name="MAIN_CLASS_NAME" value="org.cis1200.minesweeper.MineSweeperTest" />
+      <option name="METHOD_NAME" value="flagRevealedCell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MineSweeperTest.loadSavedGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cis1200.minesweeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cis1200.minesweeper" />
+      <option name="MAIN_CLASS_NAME" value="org.cis1200.minesweeper.MineSweeperTest" />
+      <option name="METHOD_NAME" value="loadSavedGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MineSweeperTest.saveAGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cis1200.minesweeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cis1200.minesweeper" />
+      <option name="MAIN_CLASS_NAME" value="org.cis1200.minesweeper.MineSweeperTest" />
+      <option name="METHOD_NAME" value="saveAGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="JUnit.MineSweeperTest" />
+        <item itemvalue="JUnit.MineSweeperTest.saveAGame" />
+        <item itemvalue="JUnit.MineSweeperTest.loadSavedGame" />
+        <item itemvalue="JUnit.MineSweeperTest.flagRevealedCell" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74400ced-cc2a-4e32-96cd-88b9ded44f3c" name="Changes" comment="" />
+      <created>1733171207886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733171207886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw09_local_temp$Game.ic" NAME="Game Coverage Results" MODIFIED="1733798374578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.cis1200.*</FILTER>
+    </SUITE>
+  </component>
+</project>
